@@ -147,7 +147,7 @@
     "react-tabs": "^2.0.0",
     "slugify": "^1.2.1",
     "stickyfill": "^1.1.1",
-    "styled-components": "^3.3.3",
+    "styled-components": "https://github.com/duyphuong13/styled-components",
     "tslib": "^1.9.3"
   },
   "resolutions": {
